@@ -6,6 +6,10 @@ public class Demo {
 	{
 		System.out.println("In Sum Method....");
 	}
+	public void mul()
+	{
+		System.out.println("In Mul Method....");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hello in Main Method");
